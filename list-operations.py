@@ -1,3 +1,5 @@
+# Running code https://onecompiler.com/python/42r4nteke
+
 import re
 
 lst = ["city",123,123,123,0,0,0,6,6,6,98,97,97,97,"bangalore"]
